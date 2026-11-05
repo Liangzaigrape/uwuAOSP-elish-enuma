@@ -1,0 +1,19 @@
+# 大文件不进仓库，走 GitHub Releases
+*.img
+*.zip
+*.apk
+*.bin
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# 校验文件保留
+!checksums.sha256
